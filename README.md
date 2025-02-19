@@ -191,3 +191,23 @@ Create a \[class/module] for \[specific functionality] in \[programming language
 2.  Main methods with clear docstrings
 3.  Any necessary private helper methods
 4.  Proper encapsulation and adherence to OOP principles
+
+---------------------------------------
+
+## Prompt Libraries and Resources
+
+---------------------------------------
+
+https://github.com/abilzerian/LLM-Prompt-Library
+
+https://github.com/voytas75/GPTprompts
+
+https://github.com/adamkdean/prompts
+
+https://github.com/dmatrix/genai-cookbook/blob/main/llm-prompts/README.md
+
+https://github.com/gregoryg/AIPIHKAL
+
+https://github.com/jamesponddotco/llm-prompts
+
+https://microsoft.github.io/genaiscript/reference/scripts/system/
