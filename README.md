@@ -48,7 +48,7 @@ Act as a Senior Python Developer and generate a well-structured Python API clien
 
 #### Use Case Specific Additions
 
-*   Timestamp the file written so that it is unique and can be sorted by date/time.
+*   Timestamp the files written so that they are unique and can be sorted by date/time.
 *   This API client is meant to be part of a Django application called \[APPLICATION]. The \[DIR] directory is in the \[FOLDER] folder.
 *   Please ensure the code written reflects that change.
 *   Test and document your code.
