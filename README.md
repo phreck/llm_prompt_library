@@ -19,13 +19,15 @@ Prompts are organized by topic, technology, and use case for easy reference and 
 
 - [General Software Engineering Prompts](./general_prompts/)
 - [Python Django Software Engineering Orchestration](./copilot_orchestration/python_django/)
-	- [Chatmodes](./copilot_orchestration/python_django/chatmodes/basic_chatmodes.md)
-	- [Instructions](./copilot_orchestration/python_django/instructions/basic_instructions.md)
-	- [Prompts](./copilot_orchestration/python_django/prompts/basic_prompts.md)
+	- [Chatmodes](./copilot_orchestration/python_django/chatmodes/)
+	- [Instructions](./copilot_orchestration/python_django/instructions/)
+	- [Prompts](./copilot_orchestration/python_django/prompts/)
+    - [Python & Django Development Copilot Instructions](./copilot_orchestration/python_django/Python_Django-instructions.md)
 - [Talos Linux Orchestration](./copilot_orchestration/talos_linux/)
 	- [Chatmodes](./copilot_orchestration/talos_linux/chatmodes/basic_chatmodes.md)
 	- [Instructions](./copilot_orchestration/talos_linux/instructions/basic_instructions.md)
 	- [Prompts](./copilot_orchestration/talos_linux/prompts/basic_prompts.md)
+    - [Talos Linux Kubernetes Project Instructions](./copilot_orchestration/talos_linux/Talos_Linux-instructions.md)
 - [Prompt Libraries and Resources](#prompt-libraries-and-resources)
 
 
